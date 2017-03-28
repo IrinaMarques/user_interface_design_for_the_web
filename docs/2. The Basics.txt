@@ -1,0 +1,15 @@
+====================================
+2.1 What is User Interface Design?
+====================================
+
+Represents the means which can communicate with a virtual identinty.
+
+Visual hierarchy: 
+- how the page is structured 
+- which elements are first to be noticed
+- visually appealing structure 
+- the page make sense
+- how information is structured in the page
+- make the page easy to navigate
+
+We only foucus on UI Design for the web but the principles apply to the larger concept of UI.
