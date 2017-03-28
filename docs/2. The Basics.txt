@@ -13,3 +13,32 @@ Visual hierarchy:
 - make the page easy to navigate
 
 We only foucus on UI Design for the web but the principles apply to the larger concept of UI.
+
+======================
+2.2 Know the End Goal
+======================
+
+What is the purpose of the website?
+- backend platform?
+- content management?
+In each case every UI needs to be diferent.
+
+Some examples:
+
+mailchimp.com
+- Clear menssage
+- Instructions how to continue
+- Make an action - Sign for free
+Main goal --> make the user to sign up
+- Once you log in it changes the layout
+- Preserve the minimalistic design
+- The top menu (to make an action) move to the left side
+Main goal --> help to create, send and track email newletters
+
+The UI can change it's form depending on what is end goal is. What you want to do with that UI.
+
+google.com
+- search engine based on a search box
+- don't need anything else
+
+Depending on what that webside needs to do it can have very diferent form.
