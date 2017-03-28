@@ -42,3 +42,17 @@ google.com
 - don't need anything else
 
 Depending on what that webside needs to do it can have very diferent form.
+
+==========================
+2.3 Get to know your user
+==========================
+
+"Obsessed over customers"
+Make sure the user can use the interface that you are building effectively and with litle efford.
+Create an interface that allows them to achieve their goals.
+
+Best way is to meet with them.
+
+Get feedback on an existing product.
+
+
