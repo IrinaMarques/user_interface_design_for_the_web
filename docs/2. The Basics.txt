@@ -55,4 +55,95 @@ Best way is to meet with them.
 
 Get feedback on an existing product.
 
+=============================
+2.4 Don't Reinvent the Wheel
+=============================
+
+Patterns is something we should use.
+- Use patterns and workflows that your customers are used to (search boxes, menus, buttons...)
+- Use some well known layouts (menu on the top, sidebar on the side)
+
+The sidebar can be collapsed.
+
+Use the items that already exists and make them look differently.
+
+=========================
+2.5 Use Visual Hierarchy
+=========================
+
+Visual Hierarchy:
+- to organize the website
+- make the page readble 
+
+1. Header:
+First thing the user see.
+Preference for headings like h1
+The header will iclude:
+- The logo: on the left side
+- The form: in the right site
+
+2. Navigation
+Clearly positioned on the top of the page
+With a list
+
+3. Section: Page title
+Big and visible to users
+
+4. A smaller button
+Give a style to some that we can see. So people will know that is a button.
+
+5. Sub section: 
+Use headings from h2/h3 
+Big title that can be seen
+Can use a separator <hr>
+
+6. Section:
+Follow the same principle as the first section
+
+7. The sidebar:
+Put on the right side
+
+UI shows: 
+Each elements are more important,
+What they should do,
+Clear understand of the webpage
+
+====================
+2.6 Stay Consistent
+====================
+
+Important:
+Users need to know that they are in control of the system they are using.
+They elements should be group with the same type of elements.
+
+Advice:
+Use common elements
+Same themes
+make them consistent
+Use things that can repeat
+
+Reference:
+--> http://builtbybuffalo.com/
+
+============================
+2.7 Always Provide Feedback
+============================
+
+User interface should be able to conect with the user
+- If users actions are correct they are encourage. 
+- If they are doing something wrong they should know about.
+
+Theach the user how it should be used.
+- When you fill out a form, know that we are doing it right.
+- When we make a mistake we get a message that describes that error in detail and tell how to fix it.
+
+The messages are accomplished by colors that allow user to identify what is right and wrong.
+Focous with additional explanation
+
+Important the notifications --> give feedback.
+Way to comunicate with the user
+
+=================================
+2.8 Keep it Simple and Intuitive
+=================================
 
